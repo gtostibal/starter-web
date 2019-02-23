@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Giorgio Tosti Balducci gtb@smtng.com @gtwtr
 
 # THANKS
 
