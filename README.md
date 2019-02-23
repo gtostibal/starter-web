@@ -15,3 +15,7 @@ As stated before, the purpose is to show how to work with Git repositories and G
 This is a simple web project, deployment can be on any web server or even local file system
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training.
